@@ -1,0 +1,161 @@
+let songs = [
+  {
+    name: "Eddy  Colvert",
+    artist: "Tulips from Amsterdam",
+    img: "img1-min",
+    audio: "music1",
+  },
+  {
+    name: "Engel Bert Hamperdink",
+    artist: "How i love you",
+    img: "img2-min",
+    audio: "music2",
+  },
+  {
+    name: "Barbara Strejzand",
+    artist: "Woman in love",
+    img: "img3-min",
+    audio: "barbara-strejzand",
+  },
+  {
+    name: "Jean Jacques Goldman",
+    artist: "Comme-toi",
+    img: "img4-min",
+    audio: "jean-jacques-goldman",
+  },
+  {
+    name: "Chris Rea",
+    artist: "And You My Love",
+    img: "img5-min",
+    audio: "chris_rea_kris_ri",
+  },
+  {
+    name: "The Color Of Night",
+    artist: "Lauren Christy",
+    img: "img6-min",
+    audio: "music_5",
+  },
+  {
+    name: "Ingrid Kup",
+    artist: "Feel Me",
+    img: "img7-min",
+    audio: "frank_duval_feat_ingrid_kup_feel_me",
+  },
+  {
+    name: "Chris Rea",
+    artist: "Curse of the Traveller",
+    img: "img8-min",
+    audio: "chris_rea_curse_of_the_traveller",
+  },
+  {
+    name: "Scorpions",
+    artist: "Maybe I Maybe You",
+    img: "img9-min",
+    audio: "scorpions-maybe-i-maybe-you",
+  },
+  {
+    name: "Celine Dion",
+    artist: "Seduces Me",
+    img: "img10-min",
+    audio: "Celine-Dion-Seduces-Me",
+  },
+  {
+    name: "Maria Daines",
+    artist: "Thats what the blues is all about",
+    img: "img11-min",
+    audio: "maria-daines-thats-what-the-blues-is-all-about",
+  },
+  {
+    name: "Scorpions",
+    artist: "Wind Of Change",
+    img: "img12-min",
+    audio: "Scorpions-Wind_Of_Change",
+  },
+  {
+    name: "Chris de Burgh",
+    artist: "The Lady In Red",
+    img: "img13-min",
+    audio: "chris-de-burgh",
+  },
+  {
+    name: "Caro Emerald",
+    artist: "A Night Like This",
+    img: "img14-min",
+    audio: "Caro Emerald - A Night Like This",
+  },
+  {
+    name: "Leo Rohas",
+    artist: "El condor pasa",
+    img: "img15-min",
+    audio: "leo-rohas-leo-rojas-el-condor-pasa",
+  },
+  {
+    name: "Miley Cyrus - Flowers",
+    artist: "Flowers",
+    img: "img16-min",
+    audio: "mileycyrusflowers",
+  },
+  {
+    name: "Sting",
+    artist: "Shape Of My Heart",
+    img: "img17-min",
+    audio: "Sting-Shape",
+  },
+  {
+    name: "Chris Rea",
+    artist: "The Road to Hell",
+    img: "img18-min",
+    audio: "chris_rea_the_road_to_hell",
+  },
+  {
+    name: "Sting",
+    artist: "Fragile",
+    img: "img19-min",
+    audio: "sting_fragile",
+  },
+  {
+    name: "Oskar Benton",
+    artist: "Bljuz",
+    img: "img20-min",
+    audio: "oskar_benton_bljuz",
+  },
+  {
+    name: "Frank Duval Ingrid Kup",
+    artist: "Song of Hope",
+    img: "img21-min",
+    audio: "frank_duval_feat_ingrid_kup_song_of_hope",
+  },
+  {
+    name: "Scorpions",
+    artist: "Send Me an Angel",
+    img: "img22-min",
+    audio: "scorpions-send-me-an-angel",
+  },
+  {
+    name: "Scorpions",
+    artist: "Still Loving You",
+    img: "img23-min",
+    audio: "scorpions-still_loving_you",
+  },
+
+  {
+    name: "Frank Duval Ingrid Kup",
+    artist: "I will not die",
+    img: "img24-min",
+    audio: "frank-duval_feat_ingrid_kup_i_will_not_die",
+  },
+  {
+    name: "Chris Rea",
+    artist: "The Blue Cafe",
+    img: "img25-min",
+    audio: "chris-rea-the-blue-cafe",
+  },
+
+  {
+    name: "Queen - Show Must Go On",
+    artist: "Queen",
+    img: "img26-min",
+    audio: "theshowmustgoon",
+  },
+];
+   
